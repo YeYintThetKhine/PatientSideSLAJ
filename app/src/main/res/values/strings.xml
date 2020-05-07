@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Patientslaj</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mr.David Sandler</string>
+    <string name="nav_header_subtitle">Patient</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_professionals">Professionals</string>
+    <string name="nav_chat">Chat Room</string>
+    <string name="nav_questionnaire">Questionnaire</string>
+    <string name="nav_articles">Articles</string>
+    <string name="nav_prescription">Prescription</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_setting">Setting</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_professionals">Professionals</string>
+    <string name="menu_chat">Chat Room</string>
+    <string name="menu_questionnaire">Questionnaire</string>
+    <string name="menu_articles">Articles</string>
+    <string name="menu_prescription">Prescription</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_setting">Setting</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
